@@ -1,0 +1,25 @@
+# Oh, thanks God, finaly you opened this file,
+# I was waiting for a long time. 
+#
+# Wonder why this file is here ??
+#   Ok, this file is just a message to Git to 
+#   ignore unnecessary  files, such as .class 
+#   which should not be pushed to Github
+#
+# Nothing more here, move on good student ;)
+
+# Created by https://www.gitignore.io/api/java
+
+### Java ###
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*

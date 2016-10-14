@@ -1,0 +1,172 @@
+[
+  {
+    "isActive": false,
+    "balance": 1779.57,
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "address": "190 Middagh Street, Sugartown, Kentucky, 1244",
+    "tags": [
+      "ad",
+      "officia"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Leblanc Olsen"
+      },
+      {
+        "id": 1,
+        "name": "Whitfield Sanchez"
+      },
+      {
+        "id": 2,
+        "name": "Huffman Garcia"
+      }
+    ]
+  },
+  {
+    "isActive": true,
+    "balance": 1062.46,
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "address": "489 Fay Court, Hiwasse, Nebraska, 6437",
+    "tags": [
+      "in",
+      "non",
+      "in"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Carver Gay"
+      },
+      {
+        "id": 1,
+        "name": "Wilda Ayala"
+      },
+      {
+        "id": 2,
+        "name": "Travis Alexander"
+      }
+    ]
+  },
+  {
+    "isActive": false,
+    "balance": "$3,522.97",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "blue",
+    "name": "Mollie Campos",
+    "address": "536 Stockton Street, Templeton, Missouri, 129",
+    "tags": [
+      "in",
+      "nisi",
+      "tempor",
+      "sit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Rocha Moody"
+      },
+      {
+        "id": 1,
+        "name": "Catherine Porter"
+      },
+      {
+        "id": 2,
+        "name": "Atkins Buckley"
+      }
+    ]
+  },
+  {
+    "isActive": true,
+    "balance": "$2,515.09",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "eyeColor": "brown",
+    "name": "Powers Cooke",
+    "gender": "male",
+    "address": "147 Throop Avenue, Ruffin, American Samoa, 7729",
+    "tags": [
+      "mollit",
+      "tempor",
+      "culpa",
+      "eiusmod"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Walter Greer"
+      },
+      {
+        "id": 1,
+        "name": "Alford Faulkner"
+      },
+      {
+        "id": 2,
+        "name": "Kirby Page"
+      }
+    ]
+  },
+  {
+    "isActive": false,
+    "balance": 2673.88,
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "brown",
+    "name": "Cooley Christensen",
+    "gender": "male",
+    "address": "430 Saratoga Avenue, Russellville, Rhode Island, 7690",
+    "tags": [
+      "enim",
+      "mollit",
+      "incididunt",
+      "sit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Allie Mcknight"
+      },
+      {
+        "id": 1,
+        "name": "Rosario Horton"
+      },
+      {
+        "id": 2,
+        "name": "Kirkland Tran"
+      }
+    ]
+  },
+  {
+    "isActive": true,
+    "balance": "$1,286.68",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "blue",
+    "name": "Concepcion Golden",
+    "gender": "female",
+    "address": "185 Hubbard Street, Dyckesville, Iowa, 9306",
+    "tags": [
+      "cillum",
+      "ipsum",
+      "quis",
+      "fugiat"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "David Vang"
+      },
+      {
+        "id": 1,
+        "name": "Jewell Mclaughlin"
+      },
+      {
+        "id": 2,
+        "name": "Ora Stanley"
+      }
+    ]
+  }
+]
