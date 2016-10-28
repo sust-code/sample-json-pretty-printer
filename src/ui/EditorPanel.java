@@ -12,7 +12,7 @@ import java.awt.Dimension;
 import java.awt.Color;
 
 // Highlighting
-// import src.fmt.Highlighter;
+import src.fmt.Highlighter;
 
 // Formatting
 // import src.fmt.Formatter;
@@ -91,7 +91,8 @@ public class EditorPanel extends JPanel{
     }
     
     private void dohighlight(){
-        // Add your highlighting logic here
+        Highlighter h = new Highlighter();
+        prev_pane.setDocument(h.apply(text_pane.getText()));
     }
 
 }
